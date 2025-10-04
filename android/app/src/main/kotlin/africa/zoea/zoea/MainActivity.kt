@@ -1,4 +1,4 @@
-package africa.zoea.zoea1
+package africa.zoea.zoea
 
 import io.flutter.embedding.android.FlutterActivity
 
